@@ -1,0 +1,9 @@
+C:\Users\marlo\source\repos\SecondLife.Model\bin\Debug\netstandard2.0\SecondLife.Model.deps.json
+C:\Users\marlo\source\repos\SecondLife.Model\bin\Debug\netstandard2.0\SecondLife.Model.dll
+C:\Users\marlo\source\repos\SecondLife.Model\bin\Debug\netstandard2.0\SecondLife.Model.pdb
+C:\Users\marlo\source\repos\SecondLife.Model\obj\Debug\netstandard2.0\SecondLife.Model.csprojAssemblyReference.cache
+C:\Users\marlo\source\repos\SecondLife.Model\obj\Debug\netstandard2.0\SecondLife.Model.AssemblyInfoInputs.cache
+C:\Users\marlo\source\repos\SecondLife.Model\obj\Debug\netstandard2.0\SecondLife.Model.AssemblyInfo.cs
+C:\Users\marlo\source\repos\SecondLife.Model\obj\Debug\netstandard2.0\SecondLife.Model.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\SecondLife.Model\obj\Debug\netstandard2.0\SecondLife.Model.dll
+C:\Users\marlo\source\repos\SecondLife.Model\obj\Debug\netstandard2.0\SecondLife.Model.pdb

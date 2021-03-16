@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="3.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SecondLife.Model\SecondLife.Model.csproj" />
+    <ProjectReference Include="..\SecondLife.Repositories\SecondLife.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

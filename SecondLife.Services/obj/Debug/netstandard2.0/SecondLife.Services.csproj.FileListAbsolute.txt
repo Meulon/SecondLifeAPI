@@ -1,0 +1,4 @@
+C:\Users\marlo\source\repos\SecondLife.Services\obj\Debug\netstandard2.0\SecondLife.Services.csprojAssemblyReference.cache
+C:\Users\marlo\source\repos\SecondLife.Services\obj\Debug\netstandard2.0\SecondLife.Services.AssemblyInfoInputs.cache
+C:\Users\marlo\source\repos\SecondLife.Services\obj\Debug\netstandard2.0\SecondLife.Services.AssemblyInfo.cs
+C:\Users\marlo\source\repos\SecondLife.Services\obj\Debug\netstandard2.0\SecondLife.Services.csproj.CoreCompileInputs.cache
